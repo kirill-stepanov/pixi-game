@@ -1,0 +1,255 @@
+{
+  "frames": {
+    "dragon1.png": {
+      "frame": {
+        "x": 1,
+        "y": 1,
+        "w": 146,
+        "h": 178
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 146,
+        "h": 178
+      },
+      "sourceSize": {
+        "w": 146,
+        "h": 178
+      }
+    },
+    "dragon10.png": {
+      "frame": {
+        "x": 149,
+        "y": 1,
+        "w": 146,
+        "h": 178
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 146,
+        "h": 178
+      },
+      "sourceSize": {
+        "w": 146,
+        "h": 178
+      }
+    },
+    "dragon11.png": {
+      "frame": {
+        "x": 297,
+        "y": 1,
+        "w": 146,
+        "h": 178
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 146,
+        "h": 178
+      },
+      "sourceSize": {
+        "w": 146,
+        "h": 178
+      }
+    },
+    "dragon12.png": {
+      "frame": {
+        "x": 1,
+        "y": 181,
+        "w": 146,
+        "h": 178
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 146,
+        "h": 178
+      },
+      "sourceSize": {
+        "w": 146,
+        "h": 178
+      }
+    },
+    "dragon2.png": {
+      "frame": {
+        "x": 149,
+        "y": 181,
+        "w": 146,
+        "h": 178
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 146,
+        "h": 178
+      },
+      "sourceSize": {
+        "w": 146,
+        "h": 178
+      }
+    },
+    "dragon3.png": {
+      "frame": {
+        "x": 297,
+        "y": 181,
+        "w": 146,
+        "h": 178
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 146,
+        "h": 178
+      },
+      "sourceSize": {
+        "w": 146,
+        "h": 178
+      }
+    },
+    "dragon4.png": {
+      "frame": {
+        "x": 1,
+        "y": 361,
+        "w": 146,
+        "h": 178
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 146,
+        "h": 178
+      },
+      "sourceSize": {
+        "w": 146,
+        "h": 178
+      }
+    },
+    "dragon5.png": {
+      "frame": {
+        "x": 149,
+        "y": 361,
+        "w": 146,
+        "h": 178
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 146,
+        "h": 178
+      },
+      "sourceSize": {
+        "w": 146,
+        "h": 178
+      }
+    },
+    "dragon6.png": {
+      "frame": {
+        "x": 297,
+        "y": 361,
+        "w": 146,
+        "h": 178
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 146,
+        "h": 178
+      },
+      "sourceSize": {
+        "w": 146,
+        "h": 178
+      }
+    },
+    "dragon7.png": {
+      "frame": {
+        "x": 445,
+        "y": 1,
+        "w": 146,
+        "h": 178
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 146,
+        "h": 178
+      },
+      "sourceSize": {
+        "w": 146,
+        "h": 178
+      }
+    },
+    "dragon8.png": {
+      "frame": {
+        "x": 445,
+        "y": 181,
+        "w": 146,
+        "h": 178
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 146,
+        "h": 178
+      },
+      "sourceSize": {
+        "w": 146,
+        "h": 178
+      }
+    },
+    "dragon9.png": {
+      "frame": {
+        "x": 445,
+        "y": 361,
+        "w": 146,
+        "h": 178
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 146,
+        "h": 178
+      },
+      "sourceSize": {
+        "w": 146,
+        "h": 178
+      }
+    }
+  },
+  "meta": {
+    "app": "http://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "dragon.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 592,
+      "h": 540
+    },
+    "scale": "1"
+  }
+}
